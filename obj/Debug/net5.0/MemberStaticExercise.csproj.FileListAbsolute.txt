@@ -1,0 +1,16 @@
+C:\Users\geremias.bezerra\source\repos\MemberStaticExercise\MemberStaticExercise\bin\Debug\net5.0\MemberStaticExercise.exe
+C:\Users\geremias.bezerra\source\repos\MemberStaticExercise\MemberStaticExercise\bin\Debug\net5.0\MemberStaticExercise.deps.json
+C:\Users\geremias.bezerra\source\repos\MemberStaticExercise\MemberStaticExercise\bin\Debug\net5.0\MemberStaticExercise.runtimeconfig.json
+C:\Users\geremias.bezerra\source\repos\MemberStaticExercise\MemberStaticExercise\bin\Debug\net5.0\MemberStaticExercise.runtimeconfig.dev.json
+C:\Users\geremias.bezerra\source\repos\MemberStaticExercise\MemberStaticExercise\bin\Debug\net5.0\MemberStaticExercise.dll
+C:\Users\geremias.bezerra\source\repos\MemberStaticExercise\MemberStaticExercise\bin\Debug\net5.0\MemberStaticExercise.pdb
+C:\Users\geremias.bezerra\source\repos\MemberStaticExercise\MemberStaticExercise\obj\Debug\net5.0\MemberStaticExercise.csproj.AssemblyReference.cache
+C:\Users\geremias.bezerra\source\repos\MemberStaticExercise\MemberStaticExercise\obj\Debug\net5.0\MemberStaticExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geremias.bezerra\source\repos\MemberStaticExercise\MemberStaticExercise\obj\Debug\net5.0\MemberStaticExercise.AssemblyInfoInputs.cache
+C:\Users\geremias.bezerra\source\repos\MemberStaticExercise\MemberStaticExercise\obj\Debug\net5.0\MemberStaticExercise.AssemblyInfo.cs
+C:\Users\geremias.bezerra\source\repos\MemberStaticExercise\MemberStaticExercise\obj\Debug\net5.0\MemberStaticExercise.csproj.CoreCompileInputs.cache
+C:\Users\geremias.bezerra\source\repos\MemberStaticExercise\MemberStaticExercise\obj\Debug\net5.0\MemberStaticExercise.dll
+C:\Users\geremias.bezerra\source\repos\MemberStaticExercise\MemberStaticExercise\obj\Debug\net5.0\refint\MemberStaticExercise.dll
+C:\Users\geremias.bezerra\source\repos\MemberStaticExercise\MemberStaticExercise\obj\Debug\net5.0\MemberStaticExercise.pdb
+C:\Users\geremias.bezerra\source\repos\MemberStaticExercise\MemberStaticExercise\obj\Debug\net5.0\MemberStaticExercise.genruntimeconfig.cache
+C:\Users\geremias.bezerra\source\repos\MemberStaticExercise\MemberStaticExercise\obj\Debug\net5.0\ref\MemberStaticExercise.dll
